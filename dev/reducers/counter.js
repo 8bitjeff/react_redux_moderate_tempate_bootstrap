@@ -17,7 +17,7 @@ const counter=(state=0, action)=> {
     }
 
     return(retval);
-    //endToBackend(retval);
+    //sendToBackend(retval);
   
   }
 

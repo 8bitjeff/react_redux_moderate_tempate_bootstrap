@@ -5,7 +5,7 @@ class Counter extends React.Component {
     
         return(
         <div className="container fluid main">
-            <h1 className="title">Moderate Stateful Reduc React Counter with Bootstrap</h1>
+            <h1 className="title">Moderate Stateful Redux React Counter with Bootstrap</h1>
             <h1>{this.props.value}</h1>
             <button onClick={this.props.onIncrement} className="btn btn-primary">ADD</button>
             &nbsp;

@@ -7,3 +7,7 @@ This one combines the state and non state containers so the actions Consts have 
 The Zamboozal game will be more advanmced and use the proper redux structure, but this suffices for a moderte application.
 
 There is a hook inthe redeucer to send the state to the back-end. It is not implemented in node yet and needs flushing out. 
+This one uses Webback for basic styles and babel for ES2016. 
+
+SASS is not used, but will be in the next app for the Zamboozal game. 
+

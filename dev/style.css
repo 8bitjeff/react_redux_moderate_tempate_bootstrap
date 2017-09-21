@@ -1,0 +1,36 @@
+body, html {
+    margin:0;
+}
+
+body {
+    font-family:Verdana, serif;
+    background-color:#EEEEEE;
+    font-size:20px;
+}
+
+.main{
+
+    text-align:center;
+}
+
+.button{
+    display:block;
+    padding: 20px 40px;
+    background-color:#555555;
+    color:#FFFFFF;
+    cursor:pointer;
+}
+
+.title{
+    display:block;
+    padding: 20px 40px;
+    background-color:#D80D0D;
+    color:#FFFFFF;
+}
+
+.textlabel{
+    display:block;
+    font-family:Verdana, serif;
+    font-size:20px;
+}
+
